@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm WOANA Joseph</h1>
-<h3 align="center">A passionate Flutter developer from Togo</h3>
+<h3 align="center">A passionate Flutter developer from Togo, living in France </h3>
 <img align="right alt="Coding" width="400" scr ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkphanuel&label=Profile%20views&color=0e75b6&style=flat" alt="darkphanuel" /> </p>
 
 
 - 🔭 I’m currently working on **welbesk**
 
-- 🌱 I’m currently learning **NextJS and AI**
+- 🌱 I’m currently learning **NextJS, AI and philosophy**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter and DART**
 
 - 📫 How to reach me **woanajoseph@gmail.com**
 
